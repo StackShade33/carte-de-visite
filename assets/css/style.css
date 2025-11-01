@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding :0;
+    box-sizing: border-box;
+}
+
+.card{
+    border: solid 4px rgb(27, 27, 111);
+    border-radius: 15px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+    margin: 50px;
+    padding: 40px;
+    max-width: 400px;
+    background-color: rgb(74, 165, 234);
+    color:white;
+    line-height: 40px;
+}
+
+a{
+    color: blue
+}
+
+a:hover{
+    color:aqua;
+    cursor: pointer;
+
+}
